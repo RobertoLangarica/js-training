@@ -1,0 +1,22 @@
+{
+  "name": "js-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoLangarica/js-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertoLangarica/js-training/issues"
+  },
+  "homepage": "https://github.com/RobertoLangarica/js-training#readme",
+  "description": "",
+  "dependencies": {
+    "vite": "^7.1.3"
+  }
+}
